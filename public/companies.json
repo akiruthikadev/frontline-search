@@ -1,0 +1,14 @@
+[
+{ "id": 1, "name": "Amazon", "location": "Bangalore", "industry": "E-commerce" },
+{ "id": 2, "name": "Amazon", "location": "Chennai", "industry": "Software Engineer" },
+{ "id": 3, "name": "HSBC", "location": "Hyderabad", "industry": "Finance"},
+{ "id": 4, "name": "Microsoft", "location": "Mumbai", "industry": "SAP" },
+{ "id": 5, "name": "Microsoft", "location": "Bangalore", "industry": "AI" },
+{ "id": 6, "name": "Flipcart", "location": "Chennai", "industry": "Software Engineer" },
+{ "id": 7, "name": "Meesho", "location": "Hyderabad", "industry": "Marketing"},
+{ "id": 8, "name": "HCL", "location": "Hyderabad", "industry": "Finance"},
+{ "id": 9, "name": "Accenture", "location": "Hyderabad", "industry": "Marketing"},
+{ "id": 10, "name": "EnglishCafe", "location": "Delhi", "industry": "HR"},
+{ "id": 11, "name": "DEll", "location":"Pune", "industry": "Marketing"},
+{ "id": 12, "name": "Dell", "location": "Hyderabad", "industry": "Frontend developer"}
+]
